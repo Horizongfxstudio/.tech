@@ -227,7 +227,7 @@ section .title::after{
 
 /* about section styling */
 .about .title::after{
-    content: "what is horiz'on";
+    content: "what is Horiz'on";
 }
 .about .about-content .left{
     width: 45%;
