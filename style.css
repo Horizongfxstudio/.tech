@@ -227,7 +227,7 @@ section .title::after{
 
 /* about section styling */
 .about .title::after{
-    content: "what is Horiz'on";
+    content: "what is Horiz’ON";
 }
 .about .about-content .left{
     width: 45%;
@@ -668,7 +668,7 @@ footer span a:hover{
 }
 
 .why .title::after{
-    content: "why Horizon";
+    content: "why. Horiz’ON";
 }
 
 
